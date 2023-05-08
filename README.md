@@ -26,7 +26,7 @@ Our analysis and comparison of the three solutions focused on the following crit
 | Criteria        | Doc Chatbot with LlamaIndex | Ask your PDF | Question and answer system
 | :---------:     |:---------------------------:|:------------:|:-------------------------:|
 | Performance     | Good                        | Good         | Good
-| Cost            | $$                          | $            | $
+| Cost            | $$$                         | $$           | $
 | Answer Accuracy | High                        | High         | Medium
 | User Experience | Fair                        | Good         | Good
 
