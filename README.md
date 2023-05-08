@@ -10,7 +10,7 @@ We've evaluated the following three AI-powered solutions:
 
 2. **Ask your PDF**: A graphical interface that combines Streamlit and Langchain to allow users to upload a PDF file and ask questions about its content. The application extracts text from the PDF, creates embeddings using the OpenAIEmbeddings library, and stores them in a FAISS database for similarity search. The code for this solution can be found in the [ask-your-pdf](./ask-your-pdf) folder.
 
-3. **Question and answer system**: A system that combines LangChain and Large Language Models, such as OpenAI’s GPT-3, and uses React/Typescript for the frontend and Python FastAPI for the backend. QDrant is used to store embeddings and text documents for fast search. The code for this solution can be found in the [QA-system-for-car-manuals](./QA-system) folder.
+3. **Question and answer system**: A system that combines LangChain and Large Language Models, such as OpenAI’s GPT-3, and uses React/Typescript for the frontend and Python FastAPI for the backend. QDrant is used to store embeddings and text documents for fast search. The code for this solution can be found in the [QA-system](./QA-system) folder.
 
 For detailed documentation and resources for each solution, please refer to the `README.md` files inside each solution's folder. You will also find the 'How to Run' instructions within each solution's `README.md` file.
 

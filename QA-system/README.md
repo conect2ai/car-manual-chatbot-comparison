@@ -16,13 +16,13 @@ The Question and answer system is a system that combines LangChain and Large Lan
 git clone https://github.com/conect2ai/car-manual-chatbot-comparison.git
 ```
 
-2. Create an account in [Qdrant Cloud](https://qdrant.tech/documentation/cloud/) to get your`API_KEY` and `HOST_URL`.
+2. Create an account in (Qdrant Cloud)[https://qdrant.tech/documentation/cloud/] to get your`API_KEY` and `HOST_URL`.
 
 3. Create an account at (OpenAi API)[https://openai.com/blog/openai-api]. You will need OpenAi credits to run the application, and in general, new users get $5 credits to test the API. This is enough to run the application.
 
 4. Create an API key in the OpenAI API. To do this, click on the `View API keys` option and create a new API key. Copy the `OPENAI_API_KEY` value from the key that was created.
 
-5. Go to `/drqa/backend/app` and create a `.env` file with the following structure replacing `<YOUR_KEY>` to your key:
+5. Go to `/drqa/backend/app` and create a '.env' file with the following structure replacing `<YOUR_KEY>` to your key:
 ```
 QDRANT_HOST="<YOUR_KEY>"
 QDRANT_API_KEY="<YOUR_KEY>"

@@ -1,5 +1,5 @@
 # Doc Chatbot with LlamaIndex
-The Doc Chatbot with LlamaIndex is a chatbot that answers questions about a PDF document. It uses the [LlamaIndex](https://gpt-index.readthedocs.io/en/latest/) and [LangChain](https://langchain.readthedocs.io/en/latest/) libraries to connect large language models (LLMs) to external data sources like PDF car manuals, enabling the creation of chatbots that can learn from diverse data sources and deliver good answers at an affordable cost.
+The Doc Chatbot with LlamaIndex is a chatbot that answers questions about a PDF document. It uses the [LlamaIndex](https://gpt-index.readthedocs.io/en/latest/) and [LangChain](https://langchain.readthedocs.io/en/latest/) libraries to connect large language models (LLMs) to external data sources like PDF car manuals, enabling the creation of chatbots that can learn from diverse data sources and deliver good answers.
 
 ## 📚 Documentation and Resources
   - [LlamaIndex Documentation](https://gpt-index.readthedocs.io/en/latest/)
