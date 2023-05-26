@@ -30,7 +30,7 @@ Our analysis and comparison of the three solutions focused on the following crit
 | Answer Accuracy | High                        | High         | Medium
 | User Experience | Fair                        | Good         | Good
 
-You can find a detailed report of our analysis [here](./analysis_report.md).
+You can find a detailed report of our analysis [here](https://medium.com/@thaisaraujom/comparing-three-ai-powered-chatbot-solutions-for-car-manual-queries-88f85be7ad1a).
 
 ## ✉️ Contact Information
 
@@ -42,6 +42,6 @@ If you have any questions or feedback, please feel free to reach out to the auth
 
 The following are the links to the sources where the codes were taken from:
 
-- [Doc Chatbot with LlamaIndex](https://medium.com/@wenbohuang0307)
+- [Doc Chatbot with LlamaIndex](https://levelup.gitconnected.com/how-to-create-a-doc-chatbot-that-learns-everything-for-you-in-15-minutes-364fef481307)
 - [Ask your PDF](https://github.com/alejandro-ao/langchain-ask-pdf)
 - [Question and answer system](https://github.com/mallahyari/drqa)
