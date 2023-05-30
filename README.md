@@ -30,7 +30,7 @@ Our analysis and comparison of the three solutions focused on the following crit
 | Answer Accuracy | High                        | High         | Medium
 | User Experience | Fair                        | Good         | Good
 
-You can find a detailed report of our analysis [here](https://medium.com/@thaisaraujom/comparing-three-ai-powered-chatbot-solutions-for-car-manual-queries-88f85be7ad1a).
+You can find a detailed report of our analysis [here](https://medium.com/@conecta.ai2/comparing-three-ai-powered-chatbot-solutions-for-car-manual-queries-273bc9ffda1c).
 
 ## ✉️ Contact Information
 
